@@ -1,0 +1,14 @@
+name: inference
+title: inference
+username: grad-edu
+account: grad-edu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16651055
+bundleId: 11568200
+url: https://grad-edu.shinyapps.io/inference/
+version: 1
+quarto_version: 1.7.32
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
